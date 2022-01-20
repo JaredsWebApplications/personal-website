@@ -1,12 +1,20 @@
 {
 		"items": [
 				{
-						"authors": ["Jared Dyreson"],
-						"demo_link": "https://google.com",
-						"information": "This is an example demo",
-						"languages": ["PHP", "JavaScript"],
-						"name": "Example Name",
-						"source_code_link": "https://github.com"
+						"authors": ["Jared Dyreson", "Mason Godfrey"],
+						"demo_link": "Cella-Ant",
+						"information": "A cellular automaton variant of Langton's Ant",
+						"languages": ["CSS", "HTML", "JavaScript"],
+						"name": "Cella Ant 0x15",
+						"source_code_link": "https://github.com/JaredsWebApplications/Cella-Ant-x15"
+				},
+				{
+						"authors": ["Jared Dyreson", "Mason Godfrey"],
+						"demo_link": "Sorting-Olympics",
+						"information": "Sorting algorithm comparison program",
+						"languages": ["CSS", "HTML", "JavaScript"],
+						"name": "Sorting Olympics",
+						"source_code_link": "https://github.com/JaredsWebApplications/Sorting-Olympics"
 				}
 		]
 }

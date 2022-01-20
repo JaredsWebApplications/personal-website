@@ -1,13 +1,43 @@
 {
 		"items": [
 				{
+						"authors": ["Michael Shafae", "Kevin Wortman", "Paul Inventado", "Jared Dyreson"],
+						"description": "The official Linux development environment for CSUF",
+						"documentation_link": "https://github.com/CSUF-Tuffix/Tuffix-2/wiki",
+						"image_path": "/static/assets/portfolio_items/tuffix.png",
+						"languages": ["Python 3.9.9"],
+						"name": "Tuffix",
+						"source_code_link": "https://github.com/CSUF-Tuffix/Tuffix-2"
+				},
+				{
 						"authors": ["Jared Dyreson"],
-						"description": "This is an example description",
-						"documentation_link": "https://github.com/JaredDyreson",
-						"image_path": "/tmp/example.png",
-						"languages": ["PHP", "JavaScript"],
-						"name": "Example Name",
-						"source_code_link": "https://github.com"
+						"description": "Automated work scheduler for the Starbucks Partner Portal",
+						"documentation_link": "https://github.com/JaredDyreson/starbucks_automa_production/wiki",
+						"image_path": "/static/assets/portfolio_items/starbucks_coffee_robot_wallpaper-t2.jpg",
+						"languages": ["Python 3.9.9"],
+						"name": "Starbucks Automa",
+						"source_code_link": "https://github.com/JaredDyreson/starbucks_automa_production"
+
+				},
+				{
+						"authors": ["Jared Dyreson"],
+						"description": "Utility to curate and manage Spotify Playlists",
+						"documentation_link": "https://github.com/JaredDyreson/Funnel-Cake/wiki",
+						"image_path": "/static/assets/portfolio_items/funnel_cake.jpg",
+						"languages": ["Python 3.9.9"],
+						"name": "Starbucks Automa",
+						"source_code_link": "https://github.com/JaredDyreson/Funnel-Cake"
+
+				},
+				{
+						"authors": ["Jared Dyreson", "Sergio Herrera"],
+						"description": "A reverse Polish notation calculator",
+						"documentation_link": "https://github.com/JaredsWebApplications/RPNCalculator#readme",
+						"image_path": "/static/assets/portfolio_items/bauer.jpg",
+						"languages": ["CSS", "HTML", "JavaScript", "Python 3.9.9"],
+						"name": "Bauer",
+						"source_code_link": "https://github.com/JaredsWebApplications/RPNCalculator"
+
 				}
 		]
 }
