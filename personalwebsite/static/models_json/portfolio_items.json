@@ -1,0 +1,14 @@
+{
+		"items": [
+				{
+						"authors": ["Jared Dyreson"],
+						"description": "This is an example description",
+						"documentation_link": "https://github.com/JaredDyreson",
+						"image_path": "/tmp/example.png",
+						"languages": ["PHP", "JavaScript"],
+						"name": "Example Name",
+						"source_code_link": "https://github.com"
+				}
+		]
+}
+

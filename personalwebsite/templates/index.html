@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}"></link>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	</head>
+    <body>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+
+    <center>
+    <div class="center">
+    <center>
+    <img src="{{ url_for('static', filename='dragon.gif') }}"  width=250/>
+
+    <h1><b>Jared Dyreson</b></h1>
+    <hr style="width:40%"></hr>
+    <center>
+    <ul id="menu">
+        <a href="/about"><li>About</li></a>
+        <a href="/demos"><li>Demos</li></a>
+        <a href="/projects"><li>Projects</li></a>
+        <a href="https://git.io/JLgYe"><li>Résumé</li></a>
+        <!--shortened link for resume-->
+    </ul>  
+    </center>
+    </div>
+
+    </center>
+</html>
